@@ -1,2 +1,2 @@
-# -Super-Meat-Boy.
+# Русификатор логотипа и обложек игры Super Meat Boy.
 Логотип выполнен Gemeni 3 Pro.
